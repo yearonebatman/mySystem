@@ -1,3 +1,3 @@
 # mySystem
 
-Arch Linux Setup for Batman
+Arch Linux i3 WM Setup for Batman
